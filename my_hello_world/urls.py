@@ -20,3 +20,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
 	path("", include("anr_pages.urls")),
 ]
+
+### end ###
